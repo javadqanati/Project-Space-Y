@@ -1,5 +1,5 @@
 # Project Space Y
-![Badge](https://github.com/javadqanati/Project-Space-Y/blob/main/applied-data-science-capstone.1.png)
+![Badge](https://github.com/javadqanati/Project-Space-Y/blob/main/badge.png)
 
 Coursera Data Science Capstone 8/26/2024
 
