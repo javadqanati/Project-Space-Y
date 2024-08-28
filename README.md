@@ -1,5 +1,6 @@
 # Project Space Y
-![Coursera Badge]([https://www.credly.com/badges/your-badge-id/image](https://www.credly.com/badges/87467bf7-654e-4ec8-b5df-de1847eaf67c/public_url))
+<img src="https://www.credly.com/badges/87467bf7-654e-4ec8-b5df-de1847eaf67c/public_url" alt="Credly Badge" width="150" height="270">
+
 
 Coursera Data Science Capstone 8/26/2024
 
